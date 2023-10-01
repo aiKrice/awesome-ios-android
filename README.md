@@ -6,7 +6,7 @@
 
 
 # Awesome-ios-android
-The ultimate resources for mobile developers and leaders whom are looking for the closest equivalent of a tool on both iOS and Android platforms with the most similarity of support.
+An array of resources for mobile developers and leaders seeking the closest equivalents of tools on both iOS and Android platforms, with maximum similarity in functionality and usage.
 
 ## Content
 - [Tooling](#tooling)
